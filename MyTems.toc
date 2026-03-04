@@ -1,5 +1,5 @@
 ## Interface: 120000
-## Title: Item Juggler
+## Title: MyTems
 ## Notes: Auto sell/repair at vendors, quick auction posting, and instant looting
 ## Author: MIYANKO
 ## Version: 1.3.0

@@ -1,4 +1,4 @@
-# Item Juggler
+# MyTems
 
 Minimal WoW addon for streamlined item handling.
 
